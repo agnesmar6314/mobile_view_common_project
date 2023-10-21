@@ -1,6 +1,6 @@
 body {
-    background-color: #b3c7f7;
-    color: #054fb9 ;
+    background-color: #8babf1;
+    color: #054fb9;
 }
 
 header {
@@ -19,14 +19,14 @@ h1 {
 h2 {
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #0461cf;
+    color: #c44601;
     text-decoration: underline;
 }
 
 h3 {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
-    color: #0073e6;
+    color: #c44601;
 }
 
 p {
@@ -141,8 +141,8 @@ a.skip-main:focus, a.skip-main:active {
 }
 
 @keyframes change_heading_color {
-    from {color: #8babf1;}
-    to {color: #0073e6;}
+    from {color: #0073e6;}
+    to {color: #c44601;}
   }
 
 @media (prefers-reduced-motion:reduce) {
